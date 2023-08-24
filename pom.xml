@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.sap.eplms</groupId>
-	<artifactId>e_server</artifactId>
+	<artifactId>eplms-registry-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>e_server</name>
+	<name>eplms-registry-service</name>
 	<description>project for registery</description>
 	<properties>
 		<java.version>1.8</java.version>
